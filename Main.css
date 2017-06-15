@@ -1,0 +1,31 @@
+body{
+  margin:0 auto;
+  width:50%;
+  text-align:center;
+  background-position:center;
+  font-family: 'Pangolin', cursive;
+}
+
+.city{
+  color: #ff3333;
+  font-size:50px;
+  text-align:center;
+}
+
+.temp{
+  color: #ff1a75;
+}
+
+.style{
+  margin: auto 0;
+  padding:10%;
+}
+input{
+  background-color: #b30047;
+  color:white;
+  cursor:pointer;
+  border:1px solid white;
+  border-radius:20px;
+  font-size:20px;
+}
+
